@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.886e3767.css",
+    "main.js": "/Portfolio/static/js/main.955421cd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Dhruv.jpg": "/Portfolio/static/media/Dhruv.a88d92980894a6f3ab13.jpg",
+    "static/media/news.png": "/Portfolio/static/media/news.680fae028a2e669fa282.png",
+    "static/media/pathshala.png": "/Portfolio/static/media/pathshala.0dba923dd0f6ac644002.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.84f4b6976a62f11cd5d7.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.4db8a949418224baad18.pdf",
+    "static/media/textutils.png": "/Portfolio/static/media/textutils.f65eb1058cf21ef1eb80.png",
+    "index.html": "/Portfolio/index.html",
+    "main.886e3767.css.map": "/Portfolio/static/css/main.886e3767.css.map",
+    "main.955421cd.js.map": "/Portfolio/static/js/main.955421cd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886e3767.css",
+    "static/js/main.955421cd.js"
+  ]
+}
